@@ -1,0 +1,6 @@
+C:\nodejs-src\EightCylinders\BoreScope\obj\x64\Debug\BoreScope.csprojResolveAssemblyReference.cache
+C:\nodejs-src\EightCylinders\build\x64\Debug\BoreScope.exe.config
+C:\nodejs-src\EightCylinders\build\x64\Debug\BoreScope.exe
+C:\nodejs-src\EightCylinders\build\x64\Debug\BoreScope.pdb
+C:\nodejs-src\EightCylinders\BoreScope\obj\x64\Debug\BoreScope.exe
+C:\nodejs-src\EightCylinders\BoreScope\obj\x64\Debug\BoreScope.pdb

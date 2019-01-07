@@ -1,0 +1,72 @@
+﻿  JSEnvironment.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  EightCylinders.vcxproj -> C:\nodejs-src\EightCylinders\build\x64\Debug\EightCylinders.dll
+  EightCylinders.vcxproj -> C:\nodejs-src\EightCylinders\build\x64\Debug\EightCylinders.pdb (Partial PDB)
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-console-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-datetime-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-debug-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-errorhandling-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-file-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-file-l1-2-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-file-l2-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-handle-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-heap-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-interlocked-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-libraryloader-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-localization-l1-2-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-memory-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-namedpipe-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-processenvironment-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-processthreads-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-processthreads-l1-1-1.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-profile-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-rtlsupport-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-string-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-synch-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-synch-l1-2-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-sysinfo-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-timezone-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-core-util-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-conio-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-convert-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-environment-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-filesystem-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-heap-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-locale-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-math-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-multibyte-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-private-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-process-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-runtime-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-stdio-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-string-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-time-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\api-ms-win-crt-utility-l1-1-0.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\dbghelp.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\icui18n.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\icuuc.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\msvcp140.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\msvcp140d.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\ucrtbase.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\ucrtbased.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\v8.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\v8_libbase.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\v8_libplatform.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\vccorlib140.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\vccorlib140d.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\vcruntime140.dll
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\vcruntime140d.dll
+         54 file(s) copied.
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\natives_blob.bin
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\snapshot_blob.bin
+          2 file(s) copied.
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\bytecode_builtins_list_generator.exe.pdb
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\d8.exe.pdb
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\icui18n.dll.pdb
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\icuuc.dll.pdb
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\mksnapshot.exe.pdb
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\torque.exe.pdb
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\v8.dll.pdb
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\v8_libbase.dll.pdb
+  C:\nodejs-src\EightCylinders\deps\v8\bin\Debug\v8_libplatform.dll.pdb
+          9 file(s) copied.
